@@ -33,3 +33,14 @@ http://cherry-it.pl/nowy-nabor-projekty-i-inicjatywy.
 	
 Functional and exploratory testing and bug reporting as part of a large team working in Scrum methodology.
 
+### PROJECTS
+
+1. http://scouts-test.futbolkolektyw.pl: 
+- [test cases based on User Story](https://docs.google.com/spreadsheets/d/1fCXSx9H1WHpmUckkFsxQXEN7WVACTqxX/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true)
+- [test cases based on own experience](https://docs.google.com/spreadsheets/d/1tB4qH8yE8Z8vlBmzYdgiMLMlWVJHy-dD/edit?usp=sharing&ouid=103988214272257934032&rtpof=true&sd=true)
+
+2. OLX mobile app:
+- [bug reports](https://drive.google.com/drive/folders/1g0il0nEQ0cTZXfTFLyqGU97zcokEm0QL?usp=sharing)
+
+3. MYSQL:
+- [SQL queries](https://docs.google.com/spreadsheets/d/1ioKzrf9DgiSKVhWSoP4loW4qMwVoeFlj/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true)
