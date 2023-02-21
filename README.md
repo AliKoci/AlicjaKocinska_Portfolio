@@ -12,7 +12,24 @@ I focus on development, I independently deepen the knowledge outlined during my 
 __I am currently a mentee in the eighth edition of the Tech Leaders mentoring program.__
 
 
+
 ### NON-COMMERCIAL EXPERIENCE
 
+#### 01.2023-02.2023	Dare IT Challenge: Become a Manual Tester
 
+A series of testing tasks with individual feedback to build a portfolio and consolidate or expand knowledge in this area.
+  
+
+#### 10.2022-12.2022	Trello training project as part of Cherry-IT initiatives
+
+http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello
+    
+Working in Scrum methodology with a special focus on daily,	reporting errors, creating test cases, operating the Devtool tool (learning and understanding the Console and Network tabs).
+  
+
+#### 04.2022-07.2022 	Crowdtester at Odessa Project as part of Cherry-IT initiatives 
+
+http://cherry-it.pl/nowy-nabor-projekty-i-inicjatywy.
+	
+Functional and exploratory testing and bug reporting as part of a large team working in Scrum methodology.
 
